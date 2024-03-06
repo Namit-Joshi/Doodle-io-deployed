@@ -1,0 +1,50 @@
+/* html {background-color: lightskyblue !important} */
+
+#myCanvas {
+    cursor: crosshair;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(62, 173, 201);
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+header {
+
+    font-size: 3em;
+
+}
+
+#predict{
+
+    border: 5px;
+    border-style: solid;
+    border-color: green;
+    border-radius: 10px;
+    font-size: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+
+    font-size: 3em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+body {
+
+    background-color: lightskyblue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
